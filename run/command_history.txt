@@ -1,0 +1,42 @@
+/currency add Dev 100
+/give Dev minecraft:bone 64
+/currency add Dev 100
+/currency set Dev 5000
+/currency set Dev 6000
+/currency add Dev 100
+/currency add Dev 1000
+/currency get
+/currency get Dev
+/currency add Dev 1000
+/currency get Dev
+/currency add Dev 10
+/currency add Dev 500
+/currency get Dev
+/currency get AiMLESS2k
+/currency add AiMLESS2k 50
+/currency add AiMLESS2k 100
+/currency add AiMLESS2k 5
+/currency get AiMLESS2k
+/gamemode creative
+/gamemode survival
+/currency set Dev 1000000
+/time set day
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/give Dev virtualcurrency:moneybag 1
+/gamemode survival
+/currency withdraw 100
+/gamemode survival
+/give Dev virtualcurrency:moneybag 1
+/currency withdraw 100
+/currency withdraw 200
+/gamemode creative
+/gamemode survival
+/currency withdraw 800
+/time set day
+/currency withdraw 800
+/give Dev minecraft:cooked_beef 64
+/currency set Dev 1000000
+/currency withdraw 1000
+/give Dev virtualcurrency:moneybag 1
