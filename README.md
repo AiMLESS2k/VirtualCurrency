@@ -13,11 +13,11 @@
 
 ## Commands
 Some of the commands require operator permissions (or can be configured via permissions system):
-/currency get <playerName> - View your current balance
-/currency add <amount> - Add currency to your balance (OP)
-/currency remove <amount> - Remove currency from your balance (OP)
-/currency set <amount> - Set your balance to a specific amount (OP)
-/currency withdraw <amount> - Withdraw currency into a Moneybag item
+- /currency get <playerName> - View your current balance
+- /currency add <amount> - Add currency to your balance (OP)
+- /currency remove <amount> - Remove currency from your balance (OP)
+- /currency set <amount> - Set your balance to a specific amount (OP)
+- /currency withdraw <amount> - Withdraw currency into a Moneybag item
 
 ## API Usage
 
