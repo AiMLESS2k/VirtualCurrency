@@ -46,4 +46,10 @@ Note: All methods automatically sync the new balance with the client.
 ## Developer Notes
 You can use CurrencyAPI in your own NeoForge mod by depending on this mod and calling its methods directly. If you’d like to register custom integrations (e.g., shops, quests, trades), feel free to create issues or PRs!
 
+## TODO
+
+- [ ] Config file to enable/disable features
+- [x] Sync currency to client
+- [x] Display currency on HUD
+
 MIT License © 2025 [AiMLESS2k]
