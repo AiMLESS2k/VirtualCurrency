@@ -1,2 +1,2 @@
-# VirtualCurrency
+# VirtualCurrency - NeoForge 1.21.1
  
